@@ -1,7 +1,7 @@
 ### Olá, eu sou a Aline!
 
 
-- 🔭 Aspirante a programadora 
+- 🔭 Aspirante a desenvolvedora
 - 🌱 Estudante da LABORATORIA_BR
 - 👯 Empatia/ Resiliência 
 
