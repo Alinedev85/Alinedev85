@@ -3,7 +3,7 @@
 
 - 🔭 Aspirante a desenvolvedora
 - 🌱 Estudante da LABORATORIA_BR 💛
-- 👯 Empatia/ Resiliência 
+- 👯 Empatia/ Resiliência/ Bom humor 
 
 <div>
   <a href="https://github.com/Alinedev85">
