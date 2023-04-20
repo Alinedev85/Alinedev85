@@ -2,7 +2,7 @@
 
 
 - 🔭 Aspirante a desenvolvedora
-- 🌱 Estudante da LABORATORIA_BR
+- 🌱 Estudante da LABORATORIA_BR 💛
 - 👯 Empatia/ Resiliência 
 
 <div>
