@@ -1,9 +1,9 @@
 ### Olá, eu sou a Aline!
 
 
-- 🔭 Aspirante a desenvolvedora
-- 🌱 Estudante da LABORATORIA_BR 💛
-- 👯 Empatia/ Resiliência/ Bom humor 
+- 🔭 Uma eterna aspirante a desenvolvedora
+- 🌱 LABORATORIA_BR 💛
+- 👯 Empatia/ Resiliência/ Bom humor /Profissionalismo / Amante das novas tecnológicas
 
 <div>
   <a href="https://github.com/Alinedev85">
