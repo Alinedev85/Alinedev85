@@ -2,8 +2,9 @@
 
 
 - 🔭 Uma eterna aspirante a desenvolvedora
+- 🚀 Estudante do Bootcamp da EMBRAER Social Tech Careers
 - 🌱 LABORATORIA_BR 💛
-- 👯 Empatia/ Resiliência/ Bom humor /Profissionalismo / Amante das novas tecnológicas
+- 👯 Empatia/ Resiliência /Profissionalismo / Apaixonada por novas tecnológicas
 
 <div>
   <a href="https://github.com/Alinedev85">
