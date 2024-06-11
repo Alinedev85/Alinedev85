@@ -2,8 +2,8 @@
 
 
 - 🔭 Uma eterna aspirante a desenvolvedora
-- 🚀 Estudante do Bootcamp da EMBRAER Social Tech Careers
-- 🌱 LABORATORIA_BR 💛
+- 🚀 Bootcamp da EMBRAER Social Tech Careers
+- 🌱 LABORATORIA_BR 
 - 👯 Empatia/ Resiliência /Profissionalismo / Apaixonada por novas tecnológicas
 
 <div>
