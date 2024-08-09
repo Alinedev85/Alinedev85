@@ -1,7 +1,7 @@
 ### Olá, eu sou a Aline!
 
 
-- 🔭 Uma eterna aspirante a desenvolvedora
+- 🔭 Uma eterna aspirante a desenvolvedora e Futura cientista de dados pelo Mackenzie
 - 🚀 Bootcamp da EMBRAER Social Tech Careers
 - 🌱 LABORATORIA_BR 
 - 👯 Empatia/ Resiliência /Profissionalismo / Apaixonada por novas tecnológicas
